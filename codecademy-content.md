@@ -52,6 +52,13 @@ These articles cover a wide range of topics from basics of programming to compet
 - [Claude Opus 4.5 Tutorial for AI Agents and Coding](https://www.codecademy.com/article/claude-opus-45-tutorial-for-ai-agents-and-coding)
 - [Gemini 3 Pro vs GPT-5.1: Which AI Model Should You Choose?](https://www.codecademy.com/article/gemini-3-pro-vs-gpt-51)
 - [Agentic IDE Comparison: Cursor vs Windsurf vs Antigravity](https://www.codecademy.com/article/agentic-ide-comparison-cursor-vs-windsurf-vs-antigravity)
+- [How to Concatenate Two Lists in Python: 6 Effective Methods](https://www.codecademy.com/article/how-to-concatenate-list-in-python)
+- [Python Inheritance Explained: Types and Use Cases](https://www.codecademy.com/article/what-is-python-inheritance)
+- [How to Reverse a List in Python](https://www.codecademy.com/article/how-to-reverse-a-list-in-python)
+- [How to Use the abs() Function in Python (With Examples)](https://www.codecademy.com/article/python-absolute-value-tutorial)
+- [What are Ufuncs in NumPy](https://www.codecademy.com/article/what-are-ufuncs-in-numpy)
+- [Sorting and Unary Operations in NumPy](https://www.codecademy.com/article/sorting-and-unary-operations-in-num-py)
+- [Godot Game Engine: A Beginner’s Guide](https://www.codecademy.com/article/godot-game-engine-a-beginners-guide)
 
 ## Courses
 
